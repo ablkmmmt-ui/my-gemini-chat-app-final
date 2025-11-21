@@ -9,3 +9,4 @@ const TEACHERS = [
 // --- 2. API Setup ---
 const generateAIResponse = async (contact, history, userMessage) => {
     // ... 函数逻辑
+export default App;
